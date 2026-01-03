@@ -10,7 +10,7 @@ public class ParallaxLayer : MonoBehaviour
     {
         Vector3 newPos = transform.localPosition;
         newPos.x -= delta * parallaxFactorX;
-         newPos.x -= delta * parallaxFactorY;
+        newPos.y -= delta * parallaxFactorY;
 
         transform.localPosition = newPos;
     }

@@ -1,0 +1,420 @@
+fileFormatVersion: 2
+guid: 28dcff54f234a174da448fab86a39857
+timeCreated: 1767556374
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: deathConfirm_0
+    21300002: deathConfirm_1
+    21300004: deathConfirm_2
+    21300006: deathConfirm_3
+    21300008: deathConfirm_4
+    21300010: deathConfirm_5
+    21300012: deathConfirm_6
+    21300014: deathConfirm_7
+    21300016: deathConfirm_8
+    21300018: deathConfirm_9
+    21300020: deathConfirm_10
+    21300022: deathConfirm_11
+    21300024: deathConfirm_12
+    21300026: deathConfirm_13
+    21300028: deathConfirm_14
+    21300030: deathConfirm_15
+    21300032: deathConfirm_16
+    21300034: deathConfirm_17
+    21300036: deathConfirm_18
+    21300038: deathConfirm_19
+    21300040: deathConfirm_20
+    21300042: deathConfirm_21
+    21300044: deathConfirm_22
+    21300046: deathConfirm_23
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: deathConfirm_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1626
+        width: 147
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: deathConfirm_1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1632
+        width: 147
+        height: 149
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: deathConfirm_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1476
+        width: 147
+        height: 149
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: deathConfirm_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1482
+        width: 147
+        height: 149
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: deathConfirm_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1326
+        width: 147
+        height: 149
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: deathConfirm_5
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1332
+        width: 147
+        height: 149
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: deathConfirm_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1177
+        width: 147
+        height: 148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: deathConfirm_7
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1182
+        width: 147
+        height: 149
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: deathConfirm_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1027
+        width: 147
+        height: 149
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: deathConfirm_9
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1033
+        width: 147
+        height: 148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: deathConfirm_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 879
+        width: 147
+        height: 147
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: deathConfirm_11
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 883
+        width: 147
+        height: 149
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: deathConfirm_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 730
+        width: 147
+        height: 148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: deathConfirm_13
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 735
+        width: 147
+        height: 147
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: deathConfirm_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 582
+        width: 147
+        height: 147
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: deathConfirm_15
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 586
+        width: 147
+        height: 148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: deathConfirm_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 436
+        width: 147
+        height: 145
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: deathConfirm_17
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 439
+        width: 147
+        height: 146
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: deathConfirm_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 291
+        width: 147
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: deathConfirm_19
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 294
+        width: 147
+        height: 145
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: deathConfirm_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 145
+        width: 147
+        height: 145
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: deathConfirm_21
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 149
+        width: 147
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: deathConfirm_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 147
+        height: 145
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: deathConfirm_23
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 4
+        width: 147
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
